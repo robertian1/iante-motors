@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Home"
+            android:icon="@drawable/house"
+            android:title="@string/nav_Home" />
+        <item
+            android:id="@+id/nav_My_cars"
+            android:icon="@drawable/car"
+            android:title="@string/nav_My_cars" />
+        <item
+            android:id="@+id/nav_Parts"
+            android:icon="@drawable/car_parts"
+            android:title="@string/nav_Parts" />
+
+        <item
+            android:id="@+id/nav_Warehouses"
+            android:icon="@drawable/warehouse"
+            android:title="@string/nav_Warehouses" />
+        <item
+            android:id="@+id/nav_Fuel_consumption"
+            android:icon="@drawable/gas"
+            android:title="@string/nav_Fuel_consumption" />
+
+        <item
+            android:id="@+id/nav_Past_records"
+            android:icon="@drawable/clipboard"
+            android:title="@string/nav_Past_records" />
+
+        <item
+            android:id="@+id/nav_book_car"
+            android:icon="@drawable/ic_notebook"
+            android:title="@string/book_car" />
+
+    </group>
+
+</menu>

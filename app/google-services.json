@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "93670940916",
+    "firebase_url": "https://iante-c7a75.firebaseio.com",
+    "project_id": "iante-c7a75",
+    "storage_bucket": "iante-c7a75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93670940916:android:94279716fbc6ea12",
+        "android_client_info": {
+          "package_name": "com.example.iante.iantemotors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93670940916-2jlae36k6ll0orrlu94j0929uv37vvif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iante.iantemotors",
+            "certificate_hash": "b8406b9673d5828cadc2bbeadee76367d1ec3cea"
+          }
+        },
+        {
+          "client_id": "93670940916-1ljqeh5ie829usj2hsea3t79erisb7vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuDTFba0HP2Gp7-qBm4grYmEaV9lRk7Bk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93670940916-1ljqeh5ie829usj2hsea3t79erisb7vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
